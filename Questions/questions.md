@@ -14,3 +14,19 @@ Output :
 ```
 output : {Apple : 'Red', Grapes:'Green'}
 ```
+
+### Q.2 Predict the output of the following.
+
+```
+function userDetails(username) {
+  if (username) {
+    console.log(salary);
+    console.log(age);
+    let age = 30;
+    var salary = 10000;
+  }
+  console.log(salary);
+  console.log(age);
+}
+userDetails("John");
+```
