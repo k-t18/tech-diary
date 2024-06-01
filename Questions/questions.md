@@ -33,7 +33,8 @@ userDetails("John");
 
 ### Q.3 Array of Object Question.
 
- An array of friends is given. Each friend likes different books to read. Get all the books in one array and try to use a minimal line of code.
+An array of friends is given. Each friend likes different books to read. Get all the books in one array and try to use a minimal line of code.
+
 ```
 let friends = [
     {
@@ -55,10 +56,10 @@ let friends = [
 
 
 output:
-['Harry Poter', 
-'Bible','War ans peace', 
+['Harry Poter',
+'Bible','War ans peace',
 'Village Katha',
-'The Lord of the Rings', 
+'The Lord of the Rings',
 'The Shining'
 ]
 ```
