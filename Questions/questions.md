@@ -63,3 +63,15 @@ output:
 'The Shining'
 ]
 ```
+### Q.3 Array of Object Question.
+
+Object Filtering
+
+```
+const obj = { a: 1, b: 2, c: 3 };
+const keys = ['a', 'c'];
+
+console.log(filterObject(obj, keys)); 
+
+// Output: { a: 1, c: 3 }
+```
