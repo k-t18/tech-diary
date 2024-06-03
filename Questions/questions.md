@@ -63,7 +63,7 @@ output:
 'The Shining'
 ]
 ```
-### Q.3 Array of Object Question.
+### Q.4 Array of Object Question.
 
 Object Filtering
 
