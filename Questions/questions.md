@@ -63,6 +63,7 @@ output:
 'The Shining'
 ]
 ```
+
 ### Q.4 Array of Object Question.
 
 Object Filtering
@@ -71,7 +72,35 @@ Object Filtering
 const obj = { a: 1, b: 2, c: 3 };
 const keys = ['a', 'c'];
 
-console.log(filterObject(obj, keys)); 
+console.log(filterObject(obj, keys));
 
 // Output: { a: 1, c: 3 }
+```
+
+## Q.5 Question
+
+Find Out diffrent string from following array output.
+
+```
+const array = [
+"Mango","Grapes","4562","Banana","Watermelon"
+]
+```
+
+Output :
+
+```
+output : 4562
+```
+
+## Q.6 Question
+
+segregate 0s and 1s in an array in Javascript .
+
+```
+const nums = [1,0,0,1,0,1,1];
+```
+
+```
+Output : [0,0,0,1,1,1,1]
 ```
